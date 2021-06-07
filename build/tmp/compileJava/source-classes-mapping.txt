@@ -1,0 +1,22 @@
+br/com/claucio/dev/jogoforca/utils/RandomUtils.java
+ br.com.claucio.dev.jogoforca.utils.RandomUtils
+br/com/claucio/dev/jogoforca/core/Word.java
+ br.com.claucio.dev.jogoforca.core.Word
+br/com/claucio/dev/jogoforca/game/GameException.java
+ br.com.claucio.dev.jogoforca.game.GameException
+br/com/claucio/dev/jogoforca/core/Config.java
+ br.com.claucio.dev.jogoforca.core.Config
+br/com/claucio/dev/jogoforca/core/InvalidCharacterException.java
+ br.com.claucio.dev.jogoforca.core.InvalidCharacterException
+br/com/claucio/dev/jogoforca/ui/UI.java
+ br.com.claucio.dev.jogoforca.ui.UI
+br/com/claucio/dev/jogoforca/Main.java
+ br.com.claucio.dev.jogoforca.Main
+br/com/claucio/dev/jogoforca/core/Dictionary.java
+ br.com.claucio.dev.jogoforca.core.Dictionary
+br/com/claucio/dev/jogoforca/core/StaticDictionary.java
+ br.com.claucio.dev.jogoforca.core.StaticDictionary
+br/com/claucio/dev/jogoforca/game/Game.java
+ br.com.claucio.dev.jogoforca.game.Game
+br/com/claucio/dev/jogoforca/core/FileDictionary.java
+ br.com.claucio.dev.jogoforca.core.FileDictionary
